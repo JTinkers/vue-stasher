@@ -17,8 +17,6 @@ export default Vue.directive('stash',
         var identifier = 'stashable-' + (binding.value.identifier || document.location.pathname.replace('/', '-') + '-id-' + instance._uid)
         var stashed = JSON.parse(localStorage.getItem(identifier))
 
-        console.log(identifier)
-
         for (var i = 0; i < properties.length; i++)
         {
             var property = properties[i]
