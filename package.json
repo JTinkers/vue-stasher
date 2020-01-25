@@ -1,0 +1,36 @@
+{
+  "name": "vue-stasher",
+  "version": "0.0.2",
+  "description": "Package providing components with data persistence",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTinkers/vue-stasher.git"
+  },
+  "keywords": [
+    "vue",
+    "stash",
+    "cache",
+    "session",
+    "localstorage",
+    "storage",
+    "local",
+    "persistence",
+    "data",
+    "stasher",
+    "keep-alive"
+  ],
+  "author": "JTinkers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JTinkers/vue-stasher/issues"
+  },
+  "homepage": "https://github.com/JTinkers/vue-stasher#readme",
+  "devDependencies": {
+    "rollup-plugin-vue": "^5.1.6",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
