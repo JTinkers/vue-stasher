@@ -3,7 +3,7 @@
 
 ### Installation
 
-To install the package, run the follow ing command:
+To install the package, run the following command:
 
 `npm i vue-stasher`
 
