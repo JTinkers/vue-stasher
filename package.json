@@ -1,6 +1,6 @@
 {
   "name": "vue-stasher",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Package providing components with data persistence",
   "main": "src/index.js",
   "scripts": {
